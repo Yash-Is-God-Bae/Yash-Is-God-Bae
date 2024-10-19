@@ -13,7 +13,7 @@ I love to Code !!!
 * ⚡  Trying to be motivated to code again.
 
 <a href="https://www.github.com/Yash-Is-God-Bae" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Yash-Is-God-Bae?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
+src="https://img.shields.io/github/followers/Yash-Is-God-Bae?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a>
 
 ### Skills
 
@@ -31,13 +31,11 @@ src="https://img.shields.io/github/followers/Yash-Is-God-Bae?logo=github&style=f
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Yash-Is-God-Bae"><img src="https://github-readme-stats.vercel.app/api?username=Yash-Is-God-Bae&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="Yash-Is-God-Bae's GitHub stats" /></a>
+<a href="http://www.github.com/Yash-Is-God-Bae"><img src="https://github-readme-stats.vercel.app/api?username=Yash-Is-God-Bae&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="Yash-Is-God-Bae's GitHub stats" /></a>
 
-<a href="http://www.github.com/Yash-Is-God-Bae"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Is-God-Bae&stroke=ffffff&background=000000&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Yash-Is-God-Bae"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Is-God-Bae&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Yash-Is-God-Bae"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Yash-Is-God-Bae&bg_color=000000&color=ffffff&line=f97316&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Yash-Is-God-Bae" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Is-God-Bae&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Yash-Is-God-Bae" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Is-God-Bae&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
